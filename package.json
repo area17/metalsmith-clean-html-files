@@ -1,0 +1,21 @@
+{
+  "name": "metalsmith-clean-html-files",
+  "version": "0.1.0",
+  "description": "A Metalsmith plugin that removes HTML files from the destination directory",
+  "author": "A17 <dev@area17.com> (https://area17.com/)",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/area17/metalsmith-clean-html-files"
+  },
+  "license": "MIT",
+  "issues": {
+    "url": "https://github.com/area17/metalsmith-clean-html-files/issues"
+  },
+  "homepage": "https://github.com/area17/metalsmith-clean-html-files",
+  "keywords": [
+    "Metalsmith.io",
+    "Clean",
+    "Remove"
+  ]
+}
